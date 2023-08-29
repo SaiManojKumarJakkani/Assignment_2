@@ -1,0 +1,9 @@
+package model;
+
+public enum Proficiency {
+    ELEMENTARY,
+    LIMITED_WORKING,
+    PROFESSIONAL_WORKING,
+    FULL_PROFESSIONAL,
+    NATIVE_BILLINGUAL
+}

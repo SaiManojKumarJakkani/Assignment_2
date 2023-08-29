@@ -1,0 +1,88 @@
+{
+  "intro" : {
+    "firstName" : "Arshad",
+    "lastName" : "Ahmes",
+    "additionalName" : "Taufiq",
+    "pronouns" : "Mr.",
+    "headline" : "Software Developer",
+    "currentPosition" : "Software Developer",
+    "industry" : "IT",
+    "education" : "MTech, IIsc",
+    "location" : [ "India", "Hyderabad" ]
+  },
+  "contactInfo" : {
+    "phone" : "7382244777",
+    "email" : "arshad.ahmes@iisc.ac.in",
+    "twitterUrl" : "www.twitter.com/arshad",
+    "birthday" : "1997-08-04"
+  },
+  "activities" : [ {
+    "id" : 47867,
+    "activityType" : "post",
+    "postId" : -1,
+    "content" : "India on moon!!",
+    "privacy" : "ANYONE",
+    "date" : 1693293707027
+  }, {
+    "id" : 54537,
+    "activityType" : "comment",
+    "postId" : 29,
+    "content" : "CFBR",
+    "privacy" : "ANYONE_TWITTER",
+    "date" : 1693293722426
+  } ],
+  "experiences" : [ {
+    "title" : "Software engineer",
+    "employeeType" : "FULL_TIME",
+    "companyName" : "Infopro",
+    "location" : "hyderbad",
+    "currentJob" : false,
+    "description" : "Working on backed",
+    "skills" : [ "java", " python", " AWS" ]
+  }, {
+    "title" : "Project engineer",
+    "employeeType" : "INTERN",
+    "companyName" : "googsoft",
+    "location" : "hyderabad",
+    "currentJob" : false,
+    "description" : "worked on AI",
+    "skills" : [ "AI", "DL", "ML" ]
+  } ],
+  "educations" : [ {
+    "school" : "IISc",
+    "degree" : "MTech",
+    "fieldOfStudy" : "CSA",
+    "grade" : 9.7,
+    "skills" : [ "AI", "AWS", "ML" ]
+  } ],
+  "licencesCertificates" : [ {
+    "name" : "AWS Architect",
+    "organization" : "Infopro",
+    "issueDate" : 1620153000000,
+    "expirationDate" : 2019666600000,
+    "skills" : [ "AWS" ]
+  } ],
+  "projects" : [ {
+    "projectName" : "VR medical inspection",
+    "description" : "vr based medical inspection",
+    "startDate" : 1661970600000,
+    "endDate" : 1680287400000,
+    "associatedWith" : "IISc, Bengaluru"
+  } ],
+  "skills" : [ {
+    "name" : "AI,ML,JAVA",
+    "followSkill" : true
+  } ],
+  "courses" : [ {
+    "courseName" : "Program analysis and verification",
+    "number" : 3445,
+    "associatedWith" : "IIsc"
+  } ],
+  "languages" : [ {
+    "name" : "ENglish",
+    "proficiency" : "PROFESSIONAL_WORKING"
+  }, {
+    "name" : "Hindi",
+    "proficiency" : "LIMITED_WORKING"
+  } ]
+}
